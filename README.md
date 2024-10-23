@@ -2,13 +2,39 @@
 <!-- markdownlint-disable MD041 -->
 <div id="top-of-doc"></div>
 
-# Readme File | ReadMe File | October-23-2024 |
+# Readme File | Game Design Document | October-23-2024 |
 
 [My Github](https://github.com/popados) | [Jump to End](#end-of-doc)
 
 ---
 
 ## Specifications
+
+- **Game Design And Name and Other Lists**
+
+  - Design
+    - Engine
+    - Story
+    - Style
+    - Mechanics
+    - Setting
+    - Controls
+    - Genre
+  - Engine
+    - Unity
+    - Unreal
+    - Godot
+    - Gamemaker
+    - JS Canvas
+    - Other JS Libraries
+  - Genre
+    - Shooter
+    - Builder
+    - Objective
+    - Action
+    - Mechanical
+    - Mindless
+  - Controls
 
 ---
 

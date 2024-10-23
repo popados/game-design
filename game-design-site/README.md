@@ -10,6 +10,18 @@
 
 ## Specifications
 
+Pro and Cons of Unity vs Unreal(The two decided engines).
+
+- Unity -
+  - Pros
+    - Have some familiarity
+    - Easier for me(I know C#)
+    - Lot's of tutorials
+  - Cons
+    - If game succeeds then potential loss of money
+    - People are moving away from Unity in favor of Godot
+    -
+
 ---
 
 ### DayNum | x/x/20xx - Today
